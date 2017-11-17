@@ -1,5 +1,5 @@
 class Calculator{
  public static void main(String arg[]){
-	 //No codE
+	 //No code
  }
 }
