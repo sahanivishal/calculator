@@ -1,4 +1,4 @@
-class cal{
+class Calculator{
  public static void main(String arg[])
  {
   int a=5,b=1,c;
